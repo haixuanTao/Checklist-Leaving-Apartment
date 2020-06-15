@@ -2,9 +2,9 @@
 
 ## Leaving administrative task
 
-- [] Send a recommended letter to the landlord
-- [] Notify the CAF of departure
-- [] Cancel Home insurance
-- [] Cancel any subscription ( EDF, internet, ... )
+- [ ] Send a recommended letter to the landlord.
+- [ ] Notify the CAF of departure.
+- [ ] Cancel Home insurance.
+- [ ] Cancel any subscription ( EDF, internet, ... ).
 
   
