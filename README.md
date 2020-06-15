@@ -1,4 +1,4 @@
-# Checklist of administrative task when leaving an apartment in Paris
+# Checklist of task when leaving an apartment in Paris
 
 ## Leaving administrative task
 
