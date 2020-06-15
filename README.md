@@ -6,5 +6,6 @@
 - [ ] Notify the CAF of departure.
 - [ ] Cancel Home insurance.
 - [ ] Cancel any subscription ( EDF, internet, ... ).
+   - For EDF, refer to https://www.resilier.fr/EDF.php to cancel subscription. 
 
   
